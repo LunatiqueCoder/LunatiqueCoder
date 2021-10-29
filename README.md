@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📱 I'm a passionate React Native developer
-- 💻 I'm a maintainer of [Luna](https://github.com/plaut-ro/luna)
+- 💻 I'm author of [Luna](https://github.com/plaut-ro/luna)
 
 <!--
 **criszz77/criszz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

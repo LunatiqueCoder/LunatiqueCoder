@@ -1,6 +1,13 @@
 ### Hi there 👋
-- 📱 I'm a passionate React Native developer
-- 💻 I'm author of [Luna](https://github.com/plaut-ro/luna)
+📱 I'm a passionate [<img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>](https://reactnative.dev/) developer
+
+## :jigsaw: My projects
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=plaut-ro&repo=luna&theme=dark)](https://github.com/plaut-ro/luna)
+
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=criszz77&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
+
+## :chart_with_upwards_trend: My GitHub Stats
+[![My GH stats](https://github-readme-stats.vercel.app/api?username=criszz77&theme=dark)](https://github.com/criszz77)
 
 <!--
 **criszz77/criszz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 📱 I'm a passionate [<img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>](https://reactnative.dev/) developer
 
 ## :jigsaw: My projects
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=plaut-ro&repo=luna&theme=dark)](https://github.com/plaut-ro/luna)
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=criszz77&repo=luna&theme=dark)](https://github.com/criszz77/luna)
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=criszz77&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
 

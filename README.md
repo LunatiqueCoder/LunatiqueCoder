@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 📱 I'm a passionate [<img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>](https://reactnative.dev/) developer
 
 ## :jigsaw: My projects

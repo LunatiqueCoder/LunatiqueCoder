@@ -3,7 +3,6 @@
 
 ## :jigsaw: My projects
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=criszz77&repo=luna&theme=dark)](https://github.com/criszz77/luna)
-
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=criszz77&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
 
 ## :chart_with_upwards_trend: My GitHub Stats

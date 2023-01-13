@@ -2,7 +2,7 @@
 📱 I'm a passionate [<img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>](https://reactnative.dev/) developer
 
 ## :jigsaw: My projects
-[![Repo card](http://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=criszz77&repo=luna&theme=dark)](https://github.com/criszz77/luna)
+[![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=criszz77&repo=luna&theme=dark)](https://github.com/criszz77/luna)
 [![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=criszz77&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
 
 ## :chart_with_upwards_trend: My GitHub Stats

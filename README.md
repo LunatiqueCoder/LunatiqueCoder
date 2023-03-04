@@ -2,11 +2,11 @@
 📱 I'm a [<img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>](https://reactnative.dev/) lunatic.
 
 ## :jigsaw: My projects
-[![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=criszz77&repo=luna&theme=dark)](https://github.com/criszz77/luna)
-[![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=criszz77&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
+[![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=LunatiqueCoder&repo=luna&theme=dark)](https://github.com/criszz77/luna)
+[![Repo card](https://github-readme-stats-gamma-gold.vercel.app/api/pin/?username=LunatiqueCoder&repo=react-native-media-console&theme=dark)](https://github.com/criszz77/react-native-media-console)
 
 ## :chart_with_upwards_trend: My GitHub Stats
-[![My GH stats](https://github-readme-stats-gamma-gold.vercel.app/api?username=criszz77&theme=dark)](https://github.com/criszz77)
+[![My GH stats](https://github-readme-stats-gamma-gold.vercel.app/api?username=LunatiqueCoder&theme=dark)](https://github.com/criszz77)
 <!-- ![My Top Languages](https://github-readme-stats-gamma-gold.vercel.app/api/top-langs/?username=criszz77&theme=dark&layout=compact) -->
 
 <!--
